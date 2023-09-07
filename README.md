@@ -73,7 +73,7 @@ Astra Premium est compatible avec un large éventail d'extensions WordPress popu
 
 ## Auteur
 
-- [Même je ne le connaît pas]
+- Même moi je ne le connaît pas
 
 ## Licence
 
